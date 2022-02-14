@@ -1,6 +1,7 @@
 # Prazer, me chamo Vicari!
 - 💻 Estou trabalhando em desenvolvimento Backend e DevOps para automação
-- 📚 Estudando linguagens voltadas a Backend como python e java
+- 👩‍💻 Sou engenheiro DevOps jr Roit Bank
+- 📚 Estudando linguagens voltadas a Backend como python e java, também ferrramentas de orquestração para automação como Jenkins, CGP, AWS, gitflow etc.
 
 <div align="center">
   <a href="https://github.com/guilhermeVicari">
