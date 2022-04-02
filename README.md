@@ -1,6 +1,5 @@
 # Prazer, me chamo Vicari!
-- 💻 Estou trabalhando em desenvolvimento Backend em estrutura de dados e IA
-- 👩‍💻 Sou desenvolvedor backend
+- 👩‍💻 Sou desenvolvedor backend!!
 - 📚 Estudando linguagens voltadas a Backend como python e java, também atua com frameworks com Django e Spring.
 
 <div align="center">
