@@ -1,6 +1,6 @@
 # Prazer, me chamo Vicari!
-- 👩‍💻 Sou desenvolvedor backend!!
-- 📚 Estudando linguagens voltadas a Backend como python e java, também atua com frameworks com Django e Spring.
+- 👩‍💻 Sou desenvolvedor backend e Engeheiro de sofware!!
+- 📚 Estudando arquitura e engenharia de software, utilizo Java como minha principal linguagem.
 
 <div align="center">
   <a href="https://github.com/guilhermeVicari">
